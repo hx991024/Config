@@ -1,3 +1,4 @@
 ```shell
+sudo
 rm -rf *
 ```
